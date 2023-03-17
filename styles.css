@@ -1,0 +1,54 @@
+body{
+    background-image:url(https://c1.wallpaperflare.com/preview/471/703/720/e-learning-training-school-online-learn-knowledge.jpg); 
+    color:black; 
+    padding:30px; 
+    margin:auto; 
+    font-family: serif;  
+    font-size: medium; 
+    line-height:1rem 
+   
+  }  
+  form{ 
+    background-color: grey;
+    margin:auto; 
+    padding: 2.5rem 2.5rem;  
+    width:800px;   
+    border-radius:1rem;
+  }  
+  textarea{ 
+    width: 300px; 
+    height:100px; 
+    border-radius:1rem
+  
+  }  
+  .starting{
+    text-align:center;
+  }   
+  a{ 
+    
+    margin: 20px 110px; 
+    
+  }
+  .buttonClass {  
+    font-size:20px;
+    font-family:Courier New;
+    width:140px;
+    height:39px;
+    border-width:1px;
+    color:#fff;
+    border-color:#599bb3;
+    border-top-left-radius:8px;
+    border-top-right-radius:8px;
+    border-bottom-left-radius:8px;
+    border-bottom-right-radius:8px;
+    box-shadow: 0px 10px 14px -7px #276873;
+    text-shadow: 0px 1px 0px #3d768a;
+    background:linear-gradient(#599bb3, #408c99);
+  }
+  
+  .buttonClass:hover {
+    background: linear-gradient(#c5efed, #599bb3);
+  }
+                
+   
+  
